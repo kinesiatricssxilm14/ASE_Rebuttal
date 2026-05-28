@@ -20,7 +20,7 @@ The reviewer notes the `.pbit` file format is "never specified." Our benchmark e
 
 **4. depcycle** (Matricess/depcycle)
 
-The reviewer notes the prompt appears truncated with "mostly empty or illegal files." This was a display artifact from the anonymous upload process. The complete prompt is now available in the artifact repository.
+The reviewer notes the prompt appears truncated with "mostly empty or illegal files." This was a display artifact from the anonymous upload process. The complete prompt is now available in the artifact repository (https://anonymous.4open.science/r/CLI-Tool-Bench-F303/agent_prompt/Matricess/depcycle/agent_prompt.txt).
 
 ---
 
